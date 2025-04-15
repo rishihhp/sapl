@@ -74,21 +74,9 @@ This project blends education, utility, and fun to create a rich digital experie
 - 📅 Event RSVP & reminders system
 - 🎓 Learning modules for cybersecurity, digital safety, and more
 
----
-
-## 👨‍💻 Creator
-
-**Rishi Hariharaprasad**  
-High School Programmer | Community Technologist  
-📍 San Antonio, TX  
-🎓 SAPL Contributor | Rise Finalist | Congressional App Winner
 
 ---
 
 ## 📝 License
 
 This project is open-source and free to use under the MIT License.
-
----
-
-> “Libraries are more than buildings—they’re access points to knowledge. This bot brings the library to where young people already are: online.”
